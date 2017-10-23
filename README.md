@@ -1,1 +1,2 @@
 # sheep
+通过airbase-ng构建伪AP，用scapy嗅探接口上的明文密码和cookie保存到mongodb数据库，使用Flask连接数据库显示数据。
